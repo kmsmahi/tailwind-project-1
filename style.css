@@ -11,3 +11,57 @@ font-size: 16px;
 font-family:Georgia, 'Times New Roman', Times, serif;
 font-weight: 400;
 }
+
+.main-h3{
+max-width: 700px;
+height: 52px;
+color: var(--Dark 02, rgba(65, 64, 64, 1));
+font-family: EB Garamond;
+font-size: 40px;
+font-weight: 400;
+margin: 120px 250px 10px 355px;
+}
+
+.main-p{
+width: 714px;
+height: 52px;
+color: var(--Dark 03, rgba(112, 112, 112, 1));
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+margin: 10px 205px 10px 205px;
+}
+
+.div-1,.div-2,.div-3,.div-4,.div-5,.div-6{
+border: 1px solid rgba(231, 231, 231, 1);
+background: linear-gradient(180.00deg, rgba(243, 243, 243, 1),rgba(243, 243, 243, 0) 100%);
+}
+
+.box-1,.box-2,.box-3,.box-4{
+background:rgba(128, 128, 128, 0.219);
+margin: 20px 0 20px 0;
+}
+
+.box-h3{
+width: 514px;
+height: 31px;
+color: var(--Dark 02, rgba(65, 64, 64, 1));
+font-family: EB Garamond;
+font-size: 24px;
+font-weight: 400;
+text-align: center;
+padding-left: 35px;
+padding-top: 20px;
+}
+
+.box-p{
+width: 504px;
+height: 78px;
+color: var(--Dark 03, rgba(112, 112, 112, 1));
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+padding-top: 30px;
+padding-left: 35px;
+}
